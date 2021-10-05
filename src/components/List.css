@@ -1,0 +1,11 @@
+.List{
+    background-color: white;
+}
+.phonesList{
+    height: auto;
+    width: auto;
+    margin: 50px;
+    margin-left: 150px;
+    padding: 20px;
+    border-radius: 20px;
+}
